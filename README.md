@@ -6,7 +6,7 @@
 
 - 📝 I regulary write articles on [techblog.com](techblog.com)
 
-- 💬 Ask me about **React, Vue, jQuery**
+- 💬 Ask me about **Python/django, React, Node.js**
 
 - 📫 How to reach me **duttaakash.8348@gmail.com**
 
