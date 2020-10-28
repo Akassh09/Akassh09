@@ -4,13 +4,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Akassh09](github.com/Akassh09)
 
-- 📝 I regulary write articles on [techblog.com](techblog.com)
+- 📝 I regulary write articles on [medium.com](medium.com)
 
 - 💬 Ask me about **Python/django, React, Node.js**
 
 - 📫 How to reach me **duttaakash.8348@gmail.com**
 
-- ⚡ Fun fact **Commode is the best place for Daydreaming...**
+- ⚡ Fun fact **Commode is the best place for Day-dreaming...**
 
 
 <p align="left"></p><br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akassh09&show_icons=true" alt="akassh09" /> </p> 
