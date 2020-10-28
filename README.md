@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Akassh09](github.com/Akassh09)
 
-- 📝 I regulary write articles on <a href="www.medium.com">medium.com</a>
+- 📝 I regulary write articles on [medium.com](medium.com)
 
 - 💬 Ask me about **Python/django, React, Node.js**
 
