@@ -16,7 +16,7 @@
 <p align="left"></p><br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akassh09&show_icons=true" alt="akassh09" /> </p> 
 
 <p align="center">
-<h1> Follow me </h1>
+<h> Follow me </h>
 <a href="https://twitter.com/akassh09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akassh09" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/akassh09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akassh09" height="20" width="20" /></a>
 <a href="https://instagram.com/akassh09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akassh09" height="20" width="20" /></a>
