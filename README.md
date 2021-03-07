@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **duttaakash.8348@gmail.com**
 
-- ⚡ Fun fact **Commode is the best place for Day-dreaming...**
+- ⚡ Fun fact **Commode is the best place for Brainstorming 🧠⚡...**
 
 
 <p align="left"></p><br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akassh09&show_icons=true" alt="akassh09" /> </p> 
