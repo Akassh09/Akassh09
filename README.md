@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash </h1>
-<h3 align="center">A passionate Backend Developer and a Data Science enthusiast...</h3>
+<h3 align="center">A passionate Backend Developer and a ML enthusiast...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akassh09" alt="akassh09" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/Akassh09](github.com/Akassh09)
