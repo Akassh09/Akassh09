@@ -4,11 +4,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Akassh09](github.com/Akassh09)
 
-- 📝 I regulary write articles on [medium.com](medium.com)
+- 📝 I regulary write articles on [medium.com](medium.com) and [dev.to](dev.to)
 
 - 💬 Ask me about **Python/django, React, Node.js**
 
-- 📫 How to reach me **duttaakash.8348@gmail.com**
+- 📫 How to reach me **akassh09.connect@gmail.com**
 
 - ⚡ Fun fact **Commode is the best place for Brainstorming 🧠⚡...**
 
