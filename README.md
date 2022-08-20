@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash </h1>
-<h3 align="center">A passionate Backend Developer and a ML enthusiast...</h3>
+<h3 align="center">A passionate Full Stack Developer and a ML enthusiast...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akassh09" alt="akassh09" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/Akassh09](github.com/Akassh09)
 
-- 📝 I regulary write articles on [medium.com](medium.com) and [dev.to](dev.to)
+- 📝 I write articles on [medium.com](medium.com) and [dev.to](dev.to)
 
-- 💬 Ask me about **Python/django, React, Node.js**
+- 💬 Ask me about **Python/Django, Java/Spring Boot, ReactJS**
 
 - 📫 How to reach me **duttaakash.8348@gmail.com**
 
