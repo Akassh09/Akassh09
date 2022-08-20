@@ -17,7 +17,7 @@
 
 <p align="center">
 <h> Follow me </h><br>
-<a href="https://twitter.com/akassh09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akassh09" height="20" width="20" /></a>
+<a href="https://twitter.com/akassh09" target="_blank"><img align="center" src="https://www.svgrepo.com/show/20626/twitter.svg" alt="akassh09" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/akassh09" target="_blank"><img align="center" src="https://www.svgrepo.com/show/134579/linkedin.svg" alt="akassh09" height="20" width="20" /></a>
-<a href="https://instagram.com/akassh09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akassh09" height="20" width="20" /></a>
+<a href="https://instagram.com/akassh09" target="_blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://www.svgrepo.com/show/157806/instagram.svg)" alt="akassh09" height="20" width="20" /></a>
 </p>
