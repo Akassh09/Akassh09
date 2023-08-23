@@ -6,7 +6,7 @@
 
 - 📝 I write articles on [medium.com](medium.com) and [dev.to](dev.to)
 
-- 💬 Ask me about **Python/Django, Java/Spring Boot, ReactJS**
+- 💬 Ask me about 
 
 - 📫 How to reach me **duttaakash.8348@gmail.com**
 
