@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash </h1>
-<h3 align="center">A passionate Full Stack Developer and an ML enthusiast...</h3>
+<h3 align="center">A passionate Full Stack Developer and an AI Enthusiast...</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akassh09" alt="akassh09" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/Akassh09](github.com/Akassh09)
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akashdutta99gtrs@gmail.com**
 
-- ⚡ Fun fact **Commode is the best place for Brainstorming 🧠⚡...**
+- ⚡ Fun fact:  **{ Developers don't need hugs, they just need semicolons and curly braces to feel complete; }**
 
 
 <p align="left"></p><br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akassh09&show_icons=true" alt="akassh09" /> </p> 
