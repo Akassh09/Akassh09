@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python/Django, Java/Spring Boot, ReactJs**
 
-- 📫 How to reach me **duttaakash.8348@gmail.com**
+- 📫 How to reach me **akashdutta99gtrs@gmail.com**
 
 - ⚡ Fun fact **Commode is the best place for Brainstorming 🧠⚡...**
 
